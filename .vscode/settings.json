@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "pratice_laravel_lumen",
+            "database": "${workspaceFolder:pratice_laravel_lumen}/database/database.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
